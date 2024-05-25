@@ -1,0 +1,9 @@
+node_modules
+data-test-submissions
+firestore-page.png
+Asclepius.zip
+package-lock.json
+requirements.json
+
+.env
+.dockerignore
